@@ -528,4 +528,7 @@ img {
   .home__img {
     width: 450px;
   }
+  img {
+    border-radius: 50%;
+  }
 }
